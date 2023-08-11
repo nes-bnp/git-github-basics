@@ -1,0 +1,6 @@
+Hello Everyone!
+My name is Nesmy and I am learning Git and GitHub.
+GitHub is an amazing and popular Version Control.
+I love it 😍!
+
+See y'all guys!
