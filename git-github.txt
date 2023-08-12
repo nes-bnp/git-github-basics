@@ -3,4 +3,6 @@ My name is Nesmy and I am learning Git and GitHub.
 GitHub is an amazing and popular Version Control.
 I love it 😍!
 
+Trying to make some changes to learn branching and merging
+
 See y'all guys!
